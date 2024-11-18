@@ -6,7 +6,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Sale sale = new Sale();
-		sale.createSaleItem("att",2);
+		sale.createSaleItem("at",2);
 		sale.createSaleItem("ff",1);
 		sale.createSaleItem("msa",2);
 		
